@@ -1,5 +1,6 @@
 
 ## Javascript/Typescript
+
 https://github.com/sugarlabs/musicblocks/issues/3066
 https://github.com/sugarlabs/musicblocks/issues/2209
 Very simple - https://github.com/sugarlabs/musicblocks/issues/2198
@@ -35,10 +36,12 @@ https://github.com/oppia/oppia/issues/8804
 
 
 ## C++
+
 https://github.com/xbmc/xbmc/issues/16571
 https://gitlab.com/inkscape/inkscape/-/issues/3912
 
 
 ## Python
+
 https://github.com/oppia/oppia/issues/12507
 
