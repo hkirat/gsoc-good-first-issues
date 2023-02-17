@@ -21,9 +21,6 @@ The repo contains a filtered list of good first issues from previous year organi
  - https://github.com/vector-im/element-web/issues/21870
  - https://github.com/laurent22/joplin/issues/7618
  - https://github.com/jitsi/jitsi-meet/issues/12783
- - https://github.com/jitsi/jitsi-meet/issues/12778
- - https://github.com/jitsi/jitsi-meet/issues/12739
- - https://github.com/jitsi/jitsi-meet/issues/12687
  - https://github.com/Submitty/Submitty/issues/8446
  - https://github.com/Submitty/Submitty/issues/7806
  - https://github.com/Submitty/Submitty/issues/7027
