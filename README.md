@@ -9,7 +9,6 @@ The repo contains a filtered list of good first issues from previous year organi
  - https://github.com/RocketChat/Rocket.Chat/issues/26741
  - https://github.com/RocketChat/Rocket.Chat/issues/23977
  - https://github.com/RocketChat/Rocket.Chat/issues/24917
- - https://github.com/zulip/zulip/pull/24187
  - https://github.com/zulip/zulip/issues/23739
  - https://github.com/vector-im/element-web/issues/24601
  - https://github.com/vector-im/element-web/issues/24183
