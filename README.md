@@ -3,6 +3,7 @@ The repo contains a filtered list of good first issues from previous year organi
 
 ## Javascript/Typescript
 
+<<<<<<< Updated upstream
  - https://github.com/sugarlabs/musicblocks/issues/3066
  - https://github.com/sugarlabs/musicblocks/issues/2209
  - https://github.com/sugarlabs/musicblocks/issues/3175
@@ -32,6 +33,23 @@ The repo contains a filtered list of good first issues from previous year organi
  - https://github.com/oppia/oppia/issues/16086
  - https://github.com/oppia/oppia/issues/8804
  - https://github.com/oppia/oppia/issues/16893
+=======
+- https://github.com/sugarlabs/musicblocks/issues/3066
+- https://github.com/sugarlabs/musicblocks/issues/2209
+- https://github.com/sugarlabs/musicblocks/issues/2198
+- https://github.com/sugarlabs/musicblocks/issues/2410
+- https://github.com/RocketChat/Rocket.Chat/issues/26741
+- https://github.com/RocketChat/Rocket.Chat/issues/23977
+- https://github.com/RocketChat/Rocket.Chat/issues/24917
+- https://github.com/zulip/zulip/issues/23739
+
+- https://github.com/vector-im/element-web/issues/22126
+- https://github.com/vector-im/element-web/issues/22306
+- https://github.com/vector-im/element-web/issues/21796
+- https://github.com/vector-im/element-web/issues/23189
+- https://github.com/vector-im/element-web/issues/22204
+- https://github.com/matrix-org/matrix.org/issues/1508
+>>>>>>> Stashed changes
 
 
 ## C++
