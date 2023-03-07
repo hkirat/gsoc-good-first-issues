@@ -18,7 +18,6 @@ The repo contains a filtered list of good first issues from previous year organi
  - https://github.com/laurent22/joplin/issues/7618
  - https://github.com/jitsi/jitsi-meet/issues/12783
  - https://github.com/jitsi/jitsi-meet/issues/12960
- - https://github.com/Submitty/Submitty/issues/8919
  - https://github.com/Submitty/Submitty/issues/8905
  - https://github.com/Submitty/Submitty/issues/8446
  - https://github.com/Submitty/Submitty/issues/7806
