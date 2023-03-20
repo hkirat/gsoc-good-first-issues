@@ -42,4 +42,5 @@ The repo contains a filtered list of good first issues from previous year organi
 ## Python
 
  - https://github.com/oppia/oppia/issues/12507
+ - https://github.com/psf/black/issues/3294
 
