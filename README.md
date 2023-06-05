@@ -32,6 +32,7 @@ The repo contains a filtered list of good first issues from previous year organi
  - https://github.com/oppia/oppia/issues/16086
  - https://github.com/oppia/oppia/issues/8804
  - https://github.com/oppia/oppia/issues/16893
+ - https://github.com/oppia/oppia/issues/12134
 
 
 ## C++
