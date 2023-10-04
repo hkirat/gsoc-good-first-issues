@@ -3,6 +3,8 @@ The repo contains a filtered list of good first issues from previous year organi
 
 ## Javascript/Typescript
 
+
+
  - https://github.com/sugarlabs/musicblocks/issues/3066
  - https://github.com/sugarlabs/musicblocks/issues/2209
  - https://github.com/sugarlabs/musicblocks/issues/3175
@@ -32,6 +34,7 @@ The repo contains a filtered list of good first issues from previous year organi
  - https://github.com/oppia/oppia/issues/16086
  - https://github.com/oppia/oppia/issues/8804
  - https://github.com/oppia/oppia/issues/16893
+ - https://github.com/Submitty/Submitty/issues/8446
 
 
 ## C++
